@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "text": "Getting Started",
+      "text": "Démarrer",
       "items": [
         {
-          "text": "From Startup Templates",
+          "text": "À partir d'un modèle ABP",
           "items": [
             {
               "text": "ASP.NET Core MVC",
@@ -13,14 +13,14 @@
           ]
         },
         {
-          "text": "From Empty Projects",
+          "text": "À partir d'un projet vide",
           "items": [
             {
-              "text": "With ASP.NET Core Web Application",
+              "text": "Pour une application Web ASP.NET Core",
               "path": "Getting-Started-AspNetCore-Application.md"
             },
             {
-              "text": "With Console Application",
+              "text": "Pour une application console",
               "path": "Getting-Started-Console-Application.md"
             }
           ]
@@ -28,13 +28,13 @@
       ]
     },
     {
-      "text": "Tutorials",
+      "text": "Didacticiels",
       "items": [
         {
-          "text": "Application Development",
+          "text": "Développement d'application",
           "items": [
             {
-              "text": "With ASP.NET Core MVC",
+              "text": "Avec ASP.NET Core MVC",
               "path": "Tutorials/AspNetCore-Mvc/Part-I.md"
             }
           ]
@@ -42,58 +42,58 @@
       ]
     },
     {
-      "text": "Fundamentals",
+      "text": "Fondamentaux",
       "items": [
         {
-          "text": "Dependency Injection",
+          "text": "Injection de dépendances",
           "path": "Dependency-Injection.md",
           "items": [
             {
-              "text": "AutoFac Integration",
+              "text": "Intégration d'AutoFac",
               "path": "Autofac-Integration.md"
             }
           ]
         },
         {
-          "text": "Virtual File System",
+          "text": "Système de fichiers virtualisé (Virtual File System)",
           "path": "Virtual-File-System.md"
         },
         {
-          "text": "Localization",
+          "text": "Régionalisation (Localization)",
           "path": "Localization.md"
         },
         {
-          "text": "Exception Handling",
+          "text": "Gestion des exceptions",
           "path": "Exception-Handling.md"
         },
         {
           "text": "Validation"
         },
         {
-          "text": "Authorization"
+          "text": "Autorisation"
         },
         {
-          "text": "Caching"
+          "text": "Mise en cache"
         },
         {
-          "text": "Auditing"
+          "text": "Traçabilité (Auditing)"
         },
         {
-          "text": "Setting Management"
+          "text": "Gestion des paramètres"
         }
       ]
     },
     {
-      "text": "Events",
+      "text": "Événements",
       "items": [
         {
-          "text": "Event Bus (local)"
+          "text": "Bus événementiel local"
         },
         {
-          "text": "Distributed Event Bus",
+          "text": "Bus événementiel distribué",
           "items": [
             {
-              "text": "RabbitMQ Integration"
+              "text": "Intégration de RabbitMQ"
             }
           ]
         }
@@ -103,13 +103,13 @@
       "text": "Services",
       "items": [
         {
-          "text": "Object Serialization"
+          "text": "Sérialisation d'objets"
         },
         {
-          "text": "JSON Serialization"
+          "text": "Sérialisation JSON"
         },
         {
-          "text": "Emailing"
+          "text": "Courrier électronique"
         },
         {
           "text": "GUIDs"
@@ -118,7 +118,7 @@
           "text": "Threading"
         },
         {
-          "text": "Timing"
+          "text": "Date & Heure"
         }
       ]
     },
@@ -127,59 +127,59 @@
       "path": "Multi-Tenancy.md"
     },
     {
-      "text": "Module Development",
+      "text": "Développement de modules",
       "items": [
         {
-          "text": "Basics",
+          "text": "Fondamentaux",
           "path": "Module-Development-Basics.md"
         },
         {
-          "text": "Plug-In Modules"
+          "text": "Modules d'extension"
         },
         {
-          "text": "Best Practices",
+          "text": "Bonnes pratiques",
           "path": "Best-Practices/Index.md"
         }
       ]
     },
     {
-      "text": "Domain Driven Design",
+      "text": "Conception pilotée par le domaine",
       "path": "Domain-Driven-Design.md",
       "items": [
         {
-          "text": "Domain Layer",
+          "text": "Couche de domaine",
           "items": [
             {
-              "text": "Entities & Aggregate Roots",
+              "text": "Entités & Racines-agrégats (Aggregate Roots)",
               "path": "Entities.md"
             },
             {
-              "text": "Value Objects"
+              "text": "Objets-valeurs (Value Objects)"
             },
             {
-              "text": "Repositories",
+              "text": "Dépôts (Repositories)",
               "path": "Repositories.md"
             },
             {
-              "text": "Domain Services"
+              "text": "Services de domaine"
             },
             {
-              "text": "Specifications"
+              "text": "Spécifications"
             }
           ]
         },
         {
-          "text": "Application Layer",
+          "text": "Couche d'application",
           "items": [
             {
-              "text": "Application Services",
+              "text": "Services d'application",
               "path": "Application-Services.md"
             },
             {
-              "text": "Data Transfer Objects"
+              "text": "Objets de transferts de données (Data Transfer Objects)"
             },
             {
-              "text": "Unit Of Work"
+              "text": "Unité de travail (Unit Of Work)"
             }
           ]
         }
@@ -192,24 +192,24 @@
           "text": "API",
           "items": [            
             {
-              "text": "Auto API Controllers",
+              "text": "Contrôleurs API automatiques",
               "path": "AspNetCore/Auto-API-Controllers.md"
             },
             {
-              "text": "Dynamic C# API Clients",
+              "text": "Clients API C# dynamiques",
               "path": "AspNetCore/Dynamic-CSharp-API-Clients.md"
             }
           ]
         },
         {
-          "text": "User Interface",
+          "text": "Interface utilisateur",
           "items": [
             {
-              "text": "Client Side Package Management",
+              "text": "Gestion des paquets côté client",
               "path": "AspNetCore/Client-Side-Package-Management.md"
             },
             {
-              "text": "Bundling & Minification",
+              "text": "Empaquetage (Bundling) & Minification",
               "path": "AspNetCore/Bundling-Minification.md"
             },
             {
@@ -217,7 +217,7 @@
               "path": "Tag-Helpers.md"
             },
             {
-              "text": "Theming",
+              "text": "Application de thèmes",
               "path": "AspNetCore/Theming.md"
             }
           ]
@@ -225,31 +225,31 @@
       ]
     },
     {
-      "text": "Data Access",
+      "text": "Accès aux données",
       "items": [
         {
-          "text": "Entity Framework Core Integration",
+          "text": "Intégration d'Entity Framework Core",
           "path": "Entity-Framework-Core.md"
         },
         {
-          "text": "MongoDB Integration",
+          "text": "Intégration de MongoDB",
           "path": "MongoDB.md"
         }
       ]
     },
     {
-      "text": "Background",
+      "text": "Tâches de fond",
       "items": [
         {
-          "text": "Background Jobs",
+          "text": "Travaux d'arrière-plan (Background Jobs)",
           "path": "Background-Jobs.md",
           "items": [
             {
-              "text": "Hangfire Integration",
+              "text": "Intégration d'Hangfire",
               "path": "Background-Jobs-Hangfire.md"
             },
             {
-              "text": "RabbitMQ Integration",
+              "text": "Intégration de RabbitMQ",
               "path": "Background-Jobs-RabbitMq.md"
             }
           ]
@@ -257,31 +257,31 @@
       ]
     },
     {
-      "text": "Samples",
+      "text": "Exemples",
       "items": [
         {
-          "text": "Microservice Demo",
+          "text": "Démonstration de microservice",
           "path": "Samples/Microservice-Demo.md"
         }
       ]
     },
     {
-      "text": "Application Modules",
+      "text": "Modules d'application",
       "path": "Modules/Index.md"
     },
     {
-      "text": "Microservice Architecture",
+      "text": "Architecture en microservices",
       "path": "Microservice-Architecture.md"
     },
     {
-      "text": "Testing"
+      "text": "Tester"
     },
     {
-      "text": "Nightly Builds",
+      "text": "Compilations nocturnes",
       "path": "Nightly-Builds.md"
     },
     {
-      "text": "Contribution Guide",
+      "text": "Guide de contribution",
       "path": "Contribution/Index.md"
     }
   ]
